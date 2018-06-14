@@ -1,0 +1,8 @@
+
+Election Results
+----------------------------
+The total number of votes cast: 3521001
+A complete list of candidates who received votes: {'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630}
+Each Candidate voter percentage and counts O'Tooley: 3.000% (105630)
+The total number of votes each candidate won: 105630
+The winner of the election based on popular vote: Khan
