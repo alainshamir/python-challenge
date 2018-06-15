@@ -2,7 +2,8 @@
 Election Results
 ----------------------------
 The total number of votes cast: 803000
-A complete list of candidates who received votes: {'Vestal': 385440, 'Torres': 353320, 'Seth': 40150, 'Cordin': 24090}
-Each Candidate voter percentage and counts Cordin: 3.000% (24090)
-The total number of votes each candidate won: 24090
+Vestal: 48.000% (385440)
+Torres: 44.000% (353320)
+Seth: 5.000% (40150)
+Cordin: 3.000% (24090)
 The winner of the election based on popular vote: Vestal
